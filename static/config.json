@@ -1,6 +1,6 @@
 {
-    "windowTitle": "Kiwi IRC - The web IRC client",
-    "startupScreen": "welcome",
+    "windowTitle": "Kiwi On Burritos",
+    "startupScreen": "personal",
     "kiwiServer": "/webirc/kiwiirc/",
     "restricted": false,
     "theme": "Default",
